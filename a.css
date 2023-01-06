@@ -1,0 +1,22 @@
+body{
+    background-color: salmon;
+}
+.card{
+    border:2px solid greenyellow;
+    border-style: dotted;
+    width:320px;
+    padding:12px;
+    margin:10px;
+}
+.card-img{
+    border-radius: 20px;
+}
+.btn{
+    color:white;
+    background-color: red;
+}
+.cont{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
